@@ -1,5 +1,5 @@
 const getBaseUrl = () => {
-  return "http://localhost:3000";
+  return "steimatzky-backend.vercel.app";
 };
 
 export default getBaseUrl;
