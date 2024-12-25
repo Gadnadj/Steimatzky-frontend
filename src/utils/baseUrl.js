@@ -1,5 +1,5 @@
 const getBaseUrl = () => {
-  return "steimatzky-backend.vercel.app";
+  return "https://steimatzky-backend.vercel.app";
 };
 
 export default getBaseUrl;
